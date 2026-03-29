@@ -40,7 +40,7 @@ $setting = fetch_assoc("SELECT nama_instansi, alamat_instansi, kabupaten, kontak
 
     <!-- Menu Utama -->
     <div class="button-group">
-      <a href="daftar_pengajuan.php" class="btn-main">Hapus Nota Salah</a>
+      <a href="daftar_pengajuan.php" class="btn-main">Pengajuan Hapus Nota Salah</a>
       <a href="daftar_penggunaan_ruang.php" class="btn-main">Penggunaan Ruang Pertemuan</a>
     </div>
 
