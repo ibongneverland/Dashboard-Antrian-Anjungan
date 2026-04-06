@@ -63,7 +63,7 @@ $setting = fetch_assoc("SELECT nama_instansi, alamat_instansi, kabupaten, kontak
       <a href="statistik/cfr.php" class="btn-extra">CFR</a>
       <a href="statistik/discharge.php" class="btn-extra">DISCHARGE RATE</a>
       <a href="statistik/readmission.php" class="btn-extra">READMISSION RATE</a>
-      <a href="statistik/indikator_tambahan.php" class="btn-extra">INDIKATOR TAMBAHAN</a>
+      <a href="statistik/indikator_tambahan.php" class="btn-extra">REKAP STATISTIK TAMBAHAN</a>
     </div>
 
     <!-- Logout -->
